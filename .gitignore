@@ -8,3 +8,6 @@ __pycache__/
 
 # Raw IMDb datasets
 data/raw/*.tsv.gz
+
+# Processed datasets
+data/processed
