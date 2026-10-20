@@ -7,7 +7,7 @@ __pycache__/
 .env
 
 # Raw IMDb datasets
-data/raw/*.tsv.gz
+data/raw/
 
 # Processed datasets
-data/processed
+data/processed/
